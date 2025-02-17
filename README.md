@@ -18,6 +18,9 @@ I'm an engineering Student with a focus on artificial intelligence and data anal
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ## Top Projects
 
 - [AI-Team-Collaboration-Tool](https://github.com/Sachin2495/AI-Team-Collaboration-Tool): A real-time collaboration platform powered by Google Cloud and OpenAI for idea generation and design feedback. ⭐️ 0 Stars | Language: Python | Forks: 0 | Issues: 0
