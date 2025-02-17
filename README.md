@@ -6,7 +6,7 @@ we also create the Data science projects and the Tech solutions for that guysss!
 
 ## About Me
 
-I'm an engineering Student with a focus on artificial intelligence and data analysis. Based in India, I enjoy tackling complex challenges and turning ideas into reality. With experience in various programming languages and frameworks, I'm always eager to learn and grow.
+I'm an engineering Student with a focus on artificial intelligence and data analysis. Based in India, I enjoy tackling complex challenges and turning ideas into reality. With experience in various programming languages and frameworks, I'm always eager to learn and grow.I just a curious guy who explore new techs and algorithms and make some hybrids amoung them to experiment it
 
 ## Skills & Technologies
 
