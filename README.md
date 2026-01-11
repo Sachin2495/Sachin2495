@@ -1,12 +1,12 @@
 ## Hi there! 👋
 
-I'm Sachin R, a passionate developer from India. I love creating innovative solutions and exploring the intersection of technology and creativity. Let's build something amazing together in the domain of Gen AI and AI techs. 
-
-we also create the Data science projects and the Tech solutions for that guysss!!
+I’m Sachin R, a freelance Software Developer based in India. I help individuals, startups, and teams build reliable, scalable, and efficient software solutions across different technology stacks. I enjoy turning ideas into working products and helping clients solve real-world problems through technology.
 
 ## About Me
 
-I'm an engineering Student with a focus on artificial intelligence and data analysis. Based in India, I enjoy tackling complex challenges and turning ideas into reality. With experience in various programming languages and frameworks, I'm always eager to learn and grow.I just a curious guy who explore new techs and algorithms and make some hybrids amoung them to experiment it
+I’m an engineering professional with experience in full-stack development, backend systems, data-driven applications, and cloud-based solutions. I work across multiple technologies and adapt quickly to project requirements, whether it’s building an application from scratch, improving an existing system, or delivering a custom technical solution.
+
+I’m a curious problem-solver who enjoys exploring new tools, frameworks, and algorithms, often experimenting by combining different technologies to create effective and practical solutions. My focus is on clean implementation, clear communication, and dependable delivery.
 
 ## Skills & Technologies
 
