@@ -40,7 +40,7 @@ I'm an engineering Student with a focus on artificial intelligence and data anal
 ![MCP](https://img.shields.io/badge/-Model_Context_Protocol-4B5563?style=flat-square)
 ![MCP Server](https://img.shields.io/badge/-MCP_Servers-374151?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/-AI_Agents-1F2937?style=flat-square)
-![Tool_Calling](https://img.shields.io/badge/-LLM_Tool_Calling-0F172A?style=flat-square)
+![LLM_Tool_Calling](https://img.shields.io/badge/-LLM_Tool_Calling-0F172A?style=flat-square)
 ![Vector_DB](https://img.shields.io/badge/-Vector_Databases-6B7280?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
