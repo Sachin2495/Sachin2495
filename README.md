@@ -71,8 +71,6 @@ I’m a curious problem-solver who enjoys exploring new tools, frameworks, and a
 ## GitHub Stats
 
 🌟 **Public Repositories:** 24  
-👥 **Followers:** 2  
-➡️ **Following:** 0  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin2495&show_icons=true&theme=radical)
 
 ## Recent Activity
